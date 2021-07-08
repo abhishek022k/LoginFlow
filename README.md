@@ -14,7 +14,7 @@ This application has the following functionalities:
 
 ## Installation
 
-1. Place the LoginFlow folder inside your Document root to access it on localhost. 
+1. Clone the repository and place the LoginFlow folder inside your Document root to access it on localhost. 
 2. Go to conn.php & change the $dbusername & $dbpassword for your MySQL server.
 3. Navigate to LoginFlow folder on terminal & run the setup.php script which creates a DB and a table for the application and adds an admin user with username:'admin@admin.co' & password:'admin'.
 
